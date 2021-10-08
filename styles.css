@@ -1,5 +1,67 @@
 body {
     margin: 0;
     background: pink;
+    color: green;
+    text-align: left;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    line-height: 1.6em;
+}
+
+h1{
+    color: rgb(15, 0, 102);
+}
+
+p {
+    color: purple;
+}
+
+ul{
+    color:orangered;
     text-align: center;
+}
+
+#paragraph_2 {
+    background: linear-gradient(to bottom, #ffe8d4, #f69d3c);
+    border: 1px solid #696969;
+    padding: 10px;
+    border-radius: 10px;
+    box-shadow: 2px 2px 1px black;
+}
+
+.box-1{
+    background-color: grey;
+    color: white;
+}
+
+.container{
+    width: 80%;
+    margin:auto;
+    border: 10px solid green;
+}
+
+.container h1{
+    text-align: center;
+    color: yellow;
+}
+
+.container ul {
+    border: 1px dotted green;
+    text-align: right;
+    color: black;
+    list-style: none;
+}
+
+.container li{
+    padding-bottom: 8px;
+    border-bottom: dotted 1px black;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+}
+
+a:hover {
+    color:red;
 }
