@@ -7,3 +7,4 @@ My interests in Computer Science lies in Software Development. I was able to tak
 This Github page is currently in progress and I intend to showcase more about myself and my computer science projects on the website.
 
 ## Thanks for reading!
+### 
